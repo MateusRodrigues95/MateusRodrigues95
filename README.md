@@ -1,16 +1,14 @@
-### Hi there 👋
+### Sejam bem vindos. 👋
+ 
+Eu sou Mateus Rodrigues, tenho 24 anos e moro em Fortaleza- CE. 
 
-<!--
-**MateusRodrigues95/MateusRodrigues95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+ 🌱 Estou aprendendo programação e desenvolvimento web;
+ 
+ 💬 Me pergunte sobre todos os assuntos, o que não sabemos, aprendemos;
+ 
+ 📫 Encontre-me no: www.linkedin.com/in/mateus-rodrigues-cruz ;
+ 
+ ⚡ Fatos curiosos: Apaixonado pelas minhas aréas de estudo,treinos,amigos e por tudo que me motiva à ser melhor. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
