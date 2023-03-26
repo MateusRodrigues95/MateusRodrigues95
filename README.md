@@ -1,6 +1,6 @@
 ### Sejam bem vindos. 👋
  
-Eu sou Mateus Rodrigues, tenho 27 anos e moro em Fortaleza- CE. 
+Eu sou Mateus Rodrigues, tenho 27 anos e atualmente moro em Porto, Portugal. 
 
 
  
